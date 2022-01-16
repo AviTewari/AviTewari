@@ -11,7 +11,7 @@
   </a>
 </h1>
 
-- 👯 Looking to collaborate on ML, DL,Data Science or Data Analytics Projects.
+- 👯 Looking to collaborate on ML, DL, Data Science or Data Analytics Projects.
 - ⚡ Fun fact: Die hard MCU Fan 
 - 💬 Feel free to drop by a message!
 - 📫 How to reach me: <br>
