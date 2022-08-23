@@ -2,7 +2,7 @@
 
 - **I am a CSE student at SRM Institute of Science and Technology, Chennai.**
 - **I Like To Implement My Skills On Computer Vision And Deep Neural Networks**
-- **I am a junior and currently building skills to become a Data Scientist!**
+- **I am a Senior and currently building skills to become a Data Scientist!**
 
 
 <h1 align="center">
