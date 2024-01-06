@@ -1,8 +1,7 @@
 <h1 align="center"> Hey there 👋, I am Avi Tewari</h1>
 
-- **I am a CSE student at SRM Institute of Science and Technology, Chennai.**
+- **I am a Data science student at University of California, Irvine.**
 - **I Like To Implement My Skills On Computer Vision And Deep Neural Networks**
-- **I am a Senior and currently building skills to become a Data Scientist!**
 
 
 <h1 align="center">
